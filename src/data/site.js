@@ -1,0 +1,43 @@
+export const identity = {
+  greeting: "HELLO, I AM",
+  firstName: "KOULIKA",
+  lastName: "KABIROU",
+  name: "KOULIKA KABIROU",
+  roleHeadline: "Creative Developer & Digital Problem Solver",
+  typewriterRoles: ["Développeur Fullstack", "Expert en Cybersécurité"],
+  location: "Bénin",
+  tagline:
+    "Je transforme vos besoins métier en solutions numériques fiables, sécurisées et performantes, des infrastructures et données jusqu'aux applications web, mobiles et d'entreprise.",
+  statement:
+    "Spécialiste en développement logiciel avec une orientation forte vers la cybersécurité, je construis des applications web et des systèmes qui tiennent la route en conditions réelles : authentification solide, API bien conçues, infrastructures Linux maîtrisées. Mon travail se situe à la croisée de deux exigences — faire fonctionner un produit, et s'assurer qu'il résiste.",
+  heroQuote: {
+    title: "Good design gets noticed. Great design gets remembered.",
+    subtitle: "Je transforme vos idées en expériences numériques claires, utiles, sécurisées et profondément humaines."
+  }
+};
+
+export const heroKeywords = ["CYBERSÉCURITÉ", "DÉVELOPPEMENT LOGICIEL", "RÉSEAUX", "LINUX"];
+
+export const nav = [
+  { label: "À propos", href: "#about" },
+  { label: "Expertises", href: "#services" },
+  { label: "Stack", href: "#technologies" },
+  { label: "Parcours", href: "#education" },
+  { label: "Expérience", href: "#experience" },
+  { label: "Projets", href: "#projects" },
+  { label: "Sécurité", href: "#cyber" },
+  { label: "Certifications", href: "#certifications" },
+];
+
+export const socials = [
+  { label: "LinkedIn", href: "[ADD_LINKEDIN_URL]", type: "linkedin-badge" },
+  { label: "GitHub", href: "[ADD_GITHUB_URL]", type: "brand", slug: "github" },
+  { label: "Email", href: "mailto:[ADD_EMAIL]", type: "lucide", icon: "mail" },
+  { label: "WhatsApp", href: "[ADD_WHATSAPP_URL]", type: "brand", slug: "whatsapp" },
+];
+
+export const contact = {
+  email: "[ADD_EMAIL]",
+  cvUrl: "[ADD_CV_PDF_URL]",
+  availability: "[ADD_DISPONIBILITE] — ex : Ouvert aux missions freelance et stages",
+};
