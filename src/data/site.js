@@ -4,7 +4,7 @@ export const identity = {
   lastName: "KABIROU",
   name: "KOULIKA KABIROU",
   roleHeadline: "Creative Developer & Digital Problem Solver",
-  typewriterRoles: ["Développeur Fullstack", "Expert en Cybersécurité"],
+  typewriterRoles: ["Développeur Fullstack", "Junior en Cybersécurité"],
   location: "Bénin",
   tagline:
     "Je transforme vos besoins métier en solutions numériques fiables, sécurisées et performantes, des infrastructures et données jusqu'aux applications web, mobiles et d'entreprise.",
