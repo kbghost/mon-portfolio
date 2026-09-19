@@ -30,14 +30,14 @@ export const nav = [
 ];
 
 export const socials = [
-  { label: "LinkedIn", href: "[ADD_LINKEDIN_URL]", type: "linkedin-badge" },
-  { label: "GitHub", href: "[ADD_GITHUB_URL]", type: "brand", slug: "github" },
-  { label: "Email", href: "mailto:[ADD_EMAIL]", type: "lucide", icon: "mail" },
-  { label: "WhatsApp", href: "[ADD_WHATSAPP_URL]", type: "brand", slug: "whatsapp" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/kabirou-koulika-91b516394/", type: "linkedin-badge" },
+  { label: "GitHub", href: "https://github.com/kbghost", type: "brand", slug: "github" },
+  { label: "Email", href: "mailto:kabiroukoulika@gmail.com", type: "lucide", icon: "mail" },
+  { label: "WhatsApp", href: "https://wa.me/2290148767294", type: "brand", slug: "whatsapp" },
 ];
 
 export const contact = {
-  email: "[ADD_EMAIL]",
+  email: "kabiroukoulika@gmail.com",
   cvUrl: "[ADD_CV_PDF_URL]",
-  availability: "[ADD_DISPONIBILITE] — ex : Ouvert aux missions freelance et stages",
+  availability: "Ouvert aux missions freelance et stages",
 };
