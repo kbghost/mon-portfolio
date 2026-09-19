@@ -49,7 +49,7 @@ export default function Hero() {
         className="relative z-10 mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-10"
       >
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
-          
+
           {/* LEFT COLUMN: Identity, Typewriter & CTAs (Overlapping left side of background image) */}
           <div className="lg:col-span-7 flex flex-col justify-center">
             {/* Header tag line: HELLO, I AM ——— */}
@@ -106,7 +106,7 @@ export default function Hero() {
               {/* Round Social Icon Buttons */}
               <div className="flex items-center gap-2.5">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/kabirou-koulika-91b516394/"
                   target="_blank"
                   rel="noreferrer"
                   title="LinkedIn"
@@ -117,7 +117,7 @@ export default function Hero() {
                   </svg>
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/kbghost"
                   target="_blank"
                   rel="noreferrer"
                   title="GitHub"
@@ -141,7 +141,7 @@ export default function Hero() {
                   </svg>
                 </a>
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/profile.php?id=61585576351588"
                   target="_blank"
                   rel="noreferrer"
                   title="Facebook"
